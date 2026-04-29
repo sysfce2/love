@@ -1,4 +1,4 @@
-- [ ] I confirm that any code in this pull request that is not authored by me has proper attribution and licensing included, and that this pull request does not include any output from generative AI / LLM tools.
+- [ ] I confirm that all code in this pull request is either authored by me or has proper attribution and licensing included, and that this pull request does not include any output from generative AI / LLM tools.
 
 ## Description
 <!-- Describe the change here. For new features, it's best if there's an existing discussion in the issue tracker, Discord server, or other community spaces where the feature's design can be iterated on before making a pull request. -->
